@@ -1,5 +1,5 @@
 Welcome, my name is Eashaan Baid.
-DATE:- 02/06/2025
-Task No. :- 1
+DATE:- 03/06/2025
+Task No. :- 2
 
-In this task, I downloaded the Dataset from Kaggle about "Medical Appointment No Show". In that, I rectified the presentation of the 'Patient Id', properly structured the Scheduled date and Scheduled time, Appointment Date and Appointment Time, Properly formatted the 'Neighbourhood' and properly formatted ID's in number formatting and Scheduled and Appointment date and time in its respective format.
+In this task, I downloaded the Dataset from Kaggle about "Superstore Sales Data". In that, i created 6-8 different Charts and Graphs. It was quite a challenging task for me as I'm not familier with Tableau/Power BI. But being used to making dashboards, I quickly adapted to Tableau and tried to make a dashboard as good as I can make. Thank you Team Elevate Labs for this opportunity and helping me to cater the challenges and making myself believe in me to develop a problem-solving habit through these Tasks.
